@@ -19,7 +19,7 @@ namespace AulaPOO.Services
         public void AdicionarLivro(Livro livro)
         {
             _livros.Add(livro);
-            Console.WriteLine($"Livro '{livro.Titulo}' adicionado à biblioteca");
+            Console.WriteLine($"BOOK '{livro.Titulo}' adicionado à biblioteca");
         }
 
         public void AdicionarUsuario(Usuario usuario)

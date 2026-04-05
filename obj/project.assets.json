@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fe7co\\AulaPoo\\MeuApp\\MeuApp.csproj",
+      "projectUniqueName": "C:\\Users\\fe7co\\Documents\\GitHub\\Exercicio-C-\\MeuApp.csproj",
       "projectName": "MeuApp",
-      "projectPath": "C:\\Users\\fe7co\\AulaPoo\\MeuApp\\MeuApp.csproj",
+      "projectPath": "C:\\Users\\fe7co\\Documents\\GitHub\\Exercicio-C-\\MeuApp.csproj",
       "packagesPath": "C:\\Users\\fe7co\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fe7co\\AulaPoo\\MeuApp\\obj\\",
+      "outputPath": "C:\\Users\\fe7co\\Documents\\GitHub\\Exercicio-C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fe7co\\AppData\\Roaming\\NuGet\\NuGet.Config"
